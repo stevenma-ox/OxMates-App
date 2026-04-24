@@ -1,0 +1,1 @@
+To run preview of the app, run ```npx expo start --clear --tunnel``` in terminal.
